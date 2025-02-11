@@ -88,7 +88,7 @@ frame = tk.Frame(ventana, bg="light cyan", padx=9, pady=9)
 frame.pack(pady=20)
 
 # Añadir un título al menú de niveles
-titulo = tk.Label(frame, text=" FunGrammar ", font=("Times", 40, "bold"), bg="azure", relief="groove")
+titulo = tk.Label(frame, text=" Grammar ", font=("Times", 40, "bold"), bg="azure", relief="groove")
 titulo.pack(pady=10)
 
 # Crear las opciones de niveles en burbujas (radio buttons)

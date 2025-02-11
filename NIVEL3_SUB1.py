@@ -23,7 +23,7 @@ def mostrar_concepto():
                       "- 'El gato **negro** duerme.' Aquí, '**negro**' es un modificador que describe al gato.\n"
                       "- 'Ella lleva un vestido **hermoso**.' En este caso, '**hermoso**' modifica al vestido.\n\n"
                       "**Conjunciones**\n\n"
-                      "Las conjunciones son palabras que sirven para unir oraciones, frases o palabras dentro de una oración. "
+                      "Las conjunciones son palabras que sirven para unir oraciones, frases o palabras dentro de una oración."
                       "Permiten conectar ideas y establecer relaciones entre diferentes partes del texto.\n\n"
                       "Ejemplos:\n"
                       "- 'Me gusta el café **y** el té.' La conjunción '**y**' une dos elementos de la oración.\n"

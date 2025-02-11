@@ -26,7 +26,7 @@ def crear_ventana_intro():
 
     # Crear el texto de introducción
     texto_intro = (
-        "La gramática es el conjunto de reglas que rigen el uso de un idioma. Estas reglas abarcan "
+        " La gramática es el conjunto de reglas que rigen el uso de un idioma. Estas reglas abarcan "
         "la estructura de las oraciones, el uso adecuado de palabras y frases, y la correcta concordancia "
         "entre los elementos de la oración.\n\n"
         "En esta sección, exploraremos conceptos clave de la gramática, tales como:\n\n"

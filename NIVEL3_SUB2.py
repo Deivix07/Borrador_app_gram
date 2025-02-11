@@ -3,7 +3,7 @@ import tkinter as tk
 def ventana_voz():
     global oraciones
     oraciones = tk.Toplevel()
-    oraciones.title("Estructura de oraciones")
+    oraciones.title("Estructura de Oraciones")
     oraciones.geometry("501x300")  
     oraciones.resizable(False, False)  
 

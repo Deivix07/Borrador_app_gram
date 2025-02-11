@@ -5,7 +5,7 @@ from tkinter import ttk
 def ventana_tip_palabras():
     global tip_palabras
     tip_palabras = tk.Toplevel()
-    tip_palabras.title("Juego de Conjugación de Verbos en Español")
+    tip_palabras.title("Juego de Conjugación de Verbos")
     tip_palabras.geometry("501x300")  
     tip_palabras.resizable(False, False)  
 

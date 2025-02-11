@@ -279,7 +279,7 @@ def ventana_conjugacion():
             widget.destroy()
 
         tk.Label(frame_contenido, text="Conjuga los verbos en presente, pasado y futuro", font=("Times", 12, "bold"), bg="salmon").pack()
-        tk.Label(frame_contenido, text="Ten en cuenta signos de puntuacion para que tu acierto sea correcto.", font=("Times", 12, "bold"), bg="salmon").pack()
+        tk.Label(frame_contenido, text="Ten en cuenta signos de puntuacion para que tu acierto sea correcto", font=("Times", 12, "bold"), bg="salmon").pack()
 
         puntos = 0
         total = 54
